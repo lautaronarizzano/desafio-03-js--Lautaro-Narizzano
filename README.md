@@ -1,0 +1,1 @@
+El algoritmo consiste en un inicio de sesion con una verificacion de usuario y contraseña
